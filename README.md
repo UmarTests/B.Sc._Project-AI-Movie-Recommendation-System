@@ -116,7 +116,7 @@ streamlit run Movei_rec_app.py
 
 **MIT License** – Free to use, fork, and learn from.
 
-> For detailed methodology and dataset processing, see the [📄 Project Report (PDF)](https://github.com/UmarTests/AI-Movie-Recommendation-System/blob/main/YOUR_REPORT_FILE.pdf)
+> For detailed methodology and dataset processing, see the [📄 Project Report (PDF)](Project_Report_Umar_final.pdf)
 
 ---
 
